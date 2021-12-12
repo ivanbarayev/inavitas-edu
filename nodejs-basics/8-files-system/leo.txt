@@ -1,0 +1,8 @@
+2156731273123
+12323
+6584654
+xcdsgfds
+dasf -> append
+
+chmod +x oku.php
+chown 15:15 /api
